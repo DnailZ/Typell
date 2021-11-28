@@ -45,3 +45,6 @@ Working in Progress. I'm attempting to add generics in the type system, and that
 papers in similar topic:
 * [Towards Efficient, Typed LR Parsers](https://www.sciencedirect.com/science/article/pii/S1571066106001307)
 
+# Run Tests
+
+just install cabal and `cabal run` in the project directory.
