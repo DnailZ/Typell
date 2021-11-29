@@ -42,8 +42,6 @@ Through this way, parser and type system can be designed at same time, and addin
 
 Working in Progress. I'm attempting to add generics in the type system, and that will be more fun.
 
-papers in similar topic:
-* [Towards Efficient, Typed LR Parsers](https://www.sciencedirect.com/science/article/pii/S1571066106001307)
 
 # Run Tests
 
