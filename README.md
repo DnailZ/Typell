@@ -1,5 +1,5 @@
 
-# Typell - A LL(1) Parser Generator based on Type System
+# Typell - An LL(1) Parser Generator based on Type System
 
 It's quite interesting that we can rewrite every LL(1) grammar into a "Typed Form":
 
